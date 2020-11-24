@@ -18,3 +18,9 @@ Revisit:
 * Developmental Contingency Trees.
 
 * Affordances and Evolution.
+
+<P>
+  <CENTER>
+  <IMG height=50% width=50% SRC="https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/Media-and-Image%20Assets/jesse.png">
+    </CENTER>
+</P>
