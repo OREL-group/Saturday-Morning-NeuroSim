@@ -14,4 +14,4 @@ TBA
 
 Revisit:  
 
-Submissions to NM3 (Neuromatch 3) and NeurIPS workshops [link](https://github.com/Orthogonal-Research-Lab/Proposals) 
+Submissions to NM3 (Neuromatch 3) and NeurIPS workshops [link](https://github.com/Orthogonal-Research-Lab/Conference-Submissions) 
