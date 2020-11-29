@@ -16,3 +16,10 @@ Register for MAIN 2020 [link](https://t.co/bQMJStd74z?amp=1)
     <IMG SRC="https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/Media-and-Image%20Assets/MAIN-2020.png">
  </CENTER>
 </P>
+  
+ <P>
+  <CENTER>
+    <IMG SRC="https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/Media-and-Image%20Assets/norbert-weiner.png">
+ </CENTER>
+</P>
+ 
