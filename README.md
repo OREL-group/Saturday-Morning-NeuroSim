@@ -1,7 +1,7 @@
 ## Saturday Morning NeuroSim
 Repositories and topics related to the Saturday Morning NeuroSim topical meeting
 
-August 2020: [29](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/August%2029).
+August 2020: [1](), [8](), [15](), [22](), [29](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/August%2029).
 
 September 2020: [5](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/September%205), [12](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/September%2012), [19](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/September%2019), [26](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/September%2026).
 
