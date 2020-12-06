@@ -13,3 +13,11 @@ Observer-dependent Models (public lecture version): [link](https://docs.google.c
 ## Supplemental Notes
 
 Cellular Automata references.
+
+<P>
+  <CENTER>
+    <IMG SRC="https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/Media-and-Image%20Assets/cellular-automata.png">
+   </CENTER>
+</P>
+
+OREL Medium [link](https://medium.com/orel-group)
