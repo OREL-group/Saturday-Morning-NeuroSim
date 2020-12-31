@@ -9,4 +9,4 @@ October 2020: [3](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/m
 
 November 2020: [7](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/8b19fb094ecf03ccd5046595099a6ff4727d7080/November%207), [14](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/November%2014/meeting-notes.md), [21](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/November%2021/meeting-notes.md), [28](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/November%2028/meeting-notes.md).
 
-December 2020: [5](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/December%205/meeting-notes.md).
+December 2020: [5](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/December%205/meeting-notes.md), [12](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/December%2012), [19](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/December%2019), [26](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/December%2026).
