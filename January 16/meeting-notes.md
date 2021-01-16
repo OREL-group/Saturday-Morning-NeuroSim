@@ -1,15 +1,15 @@
 ## Meeting Recording
 
-[YouTube link]()
+[YouTube link](https://www.youtube.com/watch?v=IhisCzvX24k&t=768s)
 
 ## Twitter thread
 
-[link]()
+[link](https://twitter.com/Orthogonal_Lab/status/1350516326620688389)
 
 ## Presentation
 
-TBA
+NONE
 
 ## Supplemental Notes
 
-TBA
+Paper/Conference Schedule for 2021 [link](https://docs.google.com/spreadsheets/d/1T5qIQRJy-k0EgprmNKdrZFeU9SPNcbyksJ1_1ZNWU7Y/edit#gid=0)
