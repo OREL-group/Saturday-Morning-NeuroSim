@@ -1,14 +1,14 @@
 ## Meeting Recording
 
-[YouTube link]()
+[YouTube link](https://www.youtube.com/watch?v=bUQDJJ6ABpM&feature=emb_logo)
 
 ## Twitter thread
 
-[link]()
+[link](https://twitter.com/Orthogonal_Lab/status/1358156262878433286)
 
 ## Presentation
 
-NONE
+Medium post, topical review of meeting  [link]()
 
 ## Supplemental Notes
 
