@@ -8,7 +8,7 @@
 
 ## Presentation
 
-Medium post, topical review of meeting  [link]()
+Medium post, topical review of meeting  [link](https://medium.com/orel-group/society-ethics-team-nycwic-lab-news-smn-21-02-06-504ce6151366)
 
 ## Supplemental Notes
 
