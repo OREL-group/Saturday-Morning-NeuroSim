@@ -8,7 +8,7 @@
 
 ## Presentation
 
-Medium post, topical review of meeting  [link](--)
+Medium post, topical review of meeting  [link](https://medium.com/orel-group/darwin-day-towards-developmental-ai-smn-21-02-13-6e31e0d9de40)
 
 ## Supplemental Notes
 
