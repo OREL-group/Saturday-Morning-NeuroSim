@@ -8,7 +8,7 @@
 
 ## Presentation
 
-Medium post, topical review of meeting  [link](---)
+Medium post, topical review of meeting  [link](https://medium.com/orel-group/allostasis-machines-acceptances-and-more-ahead-smn-21-02-27-e44a0ae7de06)
 
 ## Supplemental Notes
 
