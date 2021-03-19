@@ -8,8 +8,8 @@
 
 ## Presentation
 
-Medium post, topical review of meeting  [link]()
+NONE   
 
 ## Supplemental Notes
 
-TBA
+Medium post on linguistic evolution and theoretical change in interdisciplinary science  [link](https://twitter.com/Orthogonal_Lab/status/1372758362501226497)
