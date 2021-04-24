@@ -1,15 +1,13 @@
 ## Meeting Recording
 
-[YouTube link](---)
+[YouTube link](https://youtu.be/sJw7PAB6hJ8)
 
 ## Twitter thread
 
-[link](---)
+[link](https://twitter.com/Orthogonal_Lab/status/1386031116843372547)
 
 ## Presentation
 
 TBA
 
 ## Supplemental Notes
-
-Post on shared notes document for NeurIPS [Medium]()
