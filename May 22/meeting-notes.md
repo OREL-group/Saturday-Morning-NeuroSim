@@ -12,4 +12,4 @@ NONE
 
 ## Supplemental Notes
 
-NONE
+Emergent Interaction Workshop 2021 [link](https://emergentinteraction.github.io/)
