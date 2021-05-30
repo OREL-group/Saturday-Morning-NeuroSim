@@ -8,7 +8,7 @@
 
 ## Presentation
 
-Anusha Sharma on [critical periods](https://youtu.be/JgPDcc66Row?t=2503)   
+Anusha Sharma on [developmental critical periods](https://youtu.be/JgPDcc66Row?t=2503)   
 
 Bradly Alicea on [Human-Assisted AI](https://youtu.be/JgPDcc66Row?t=6244)
 
