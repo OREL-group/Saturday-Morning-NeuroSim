@@ -23,4 +23,4 @@ May 2021: [1](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/
 
 June 2021: [6](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/June%204/meeting-notes.md), [12](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/June%2012/meeting-notes.md), [19](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/June%2019), [26](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/June%2026/meeting-notes.md).
 
-July 2021: [3](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/July%203/meeting-notes.md), [10](), [17](), [24](), [31]().
+July 2021: [3](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/July%203/meeting-notes.md), [10](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/July%2010), [17](), [24](), [31]().
