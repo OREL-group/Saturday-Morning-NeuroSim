@@ -1,6 +1,6 @@
 ## Meeting Recording
 
-[YouTube link](---)
+YouTube [link](---)
 
 ## Twitter thread
 
