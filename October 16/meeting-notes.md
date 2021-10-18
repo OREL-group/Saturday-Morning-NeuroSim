@@ -12,4 +12,4 @@ Intransitivity talk from July 2021 [link](https://docs.google.com/presentation/d
 
 ## Supplemental Notes
 
-
+Godel, Escher, Bach discussion [link](https://drive.google.com/drive/u/1/folders/1UQzo0ewrHf8XKYVK7nXZTmLHGHjwfjRs)
