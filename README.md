@@ -33,4 +33,4 @@ October 2021: [2](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/m
 
 November 2021: [6](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/November%206), [13](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/November%2013/meeting-notes.md), [20](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/November%2020/meeting-notes.md), [27](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/November%2027/meeting-notes.md).
 
-December 2021: [4](), [11](), [18]()
+December 2021: [4](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/December%204/meeting-notes.md), [11](), [18]()
