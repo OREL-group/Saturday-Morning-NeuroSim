@@ -1,10 +1,10 @@
 ## Meeting Recording
 
-[YouTube link](---)
+[YouTube link](https://www.youtube.com/watch?v=Hzs5z8bpqcg)
 
 ## Twitter thread
 
-[link](---)
+[link](https://twitter.com/Orthogonal_Lab/status/1467213679116574721)
 
 ## Presentation
 
