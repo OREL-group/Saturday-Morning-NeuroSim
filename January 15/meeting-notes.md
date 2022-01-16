@@ -4,7 +4,7 @@
 
 ## Twitter thread
 
-[link](---)
+[link](https://twitter.com/Orthogonal_Lab/status/1482440762537172995)
 
 ## Presentation
 
