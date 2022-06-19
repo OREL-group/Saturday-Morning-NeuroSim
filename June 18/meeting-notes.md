@@ -1,6 +1,6 @@
 ## Meeting Recording
 
-[YouTube link](https://www.youtube.com/watch?v=_TnVElrz4Dk)
+[YouTube link](https://www.youtube.com/watch?app=desktop&v=_TnVElrz4Dk)
 
 ## Twitter thread
 
