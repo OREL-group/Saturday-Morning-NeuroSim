@@ -1,15 +1,13 @@
 ## Meeting Recording
 
-[YouTube link](---)
+[YouTube link](https://twitter.com/Orthogonal_Lab/status/1545951119070924806)
 
 ## Twitter thread
 
-[link](---)
+[link](https://www.youtube.com/watch?v=DNUUb-dTnEQ)
 
 ## Presentation
 
 NONE   
 
 ## Supplemental Notes
-
-Cognition Futures Website [link](---)
