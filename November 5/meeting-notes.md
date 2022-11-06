@@ -8,3 +8,5 @@
 
 
 ## Supplemental Notes
+
+Medium post on Ethical Regulators [link](https://medium.com/orel-group/the-ethical-regulator-reflections-on-gsoc-2022-2ab4117c112f)
