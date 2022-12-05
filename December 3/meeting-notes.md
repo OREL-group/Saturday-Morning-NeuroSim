@@ -1,15 +1,13 @@
 ## Meeting Recording
 
-[YouTube link](---)
+[YouTube link](https://youtu.be/neIATrtF_Bs)
 
 ## Twitter thread
 
-[link](---)
+[link](https://twitter.com/Orthogonal_Lab/status/1599148909317656576)
 
 ## Presentation
 
 TBA
 
 ## Supplemental Notes
-
-Shared notes docs for [NeurIPS](https://www.notion.so/jopro-org/NeurIPS-2022-5a0f2e802fa345208cf7495464bad1b6)
