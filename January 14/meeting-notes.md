@@ -6,8 +6,13 @@
 
 [link](---)
 
+## Mastodon thread
+
+[link](---)
+
 ## Presentation
 
-NONE
 
 ## Supplemental Notes
+
+Notes in Notion [link](---)
