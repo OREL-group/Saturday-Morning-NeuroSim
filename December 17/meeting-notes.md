@@ -4,12 +4,15 @@
 
 ## Twitter thread
 
-[link]((https://twitter.com/Orthogonal_Lab/status/1604221040825176066)
+[link](https://twitter.com/Orthogonal_Lab/status/1604221040825176066)
+
+##  Mastodon thread
+
+[link](https://neuromatch.social/@OREL/109531043623395524)
 
 ## Presentation
 
 Sustainability Auditing Tool [link(http://sustainabilityauditingtool.herokuapp.com/)
-
 
 ## Supplemental Notes
 
