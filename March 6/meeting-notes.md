@@ -8,7 +8,7 @@
 
 ## Presentation
 
-Medium post, topical review of meeting  [link]()
+
 
 ## Supplemental Notes
 
