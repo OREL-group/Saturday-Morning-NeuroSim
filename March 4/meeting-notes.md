@@ -1,14 +1,14 @@
 ## Meeting Recording
 
-[YouTube link](---)
+[YouTube link](https://youtu.be/DHOvuH5lOoU)
 
 ## Twitter thread
 
-[link](---)
+[link](https://twitter.com/Orthogonal_Lab/status/1632217487155642369)
 
 ## Mastodon thread
 
-[link](---)
+[link](https://neuromatch.social/@OREL/109968489138189427)
 
 ## Presentation
 
