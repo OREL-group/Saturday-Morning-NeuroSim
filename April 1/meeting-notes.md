@@ -16,4 +16,4 @@ NONE
 
 ## Supplemental Notes
 
-NONE
+Notes on Notion [link](https://www.notion.so/jopro-org/smn-2023-14-5ee29c72eec84235b0f067a605ab2259)
