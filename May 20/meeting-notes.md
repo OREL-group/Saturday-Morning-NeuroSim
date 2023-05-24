@@ -6,6 +6,10 @@
 
 [link](https://twitter.com/Orthogonal_Lab/status/1660091611626258434)
 
+## Mastodon thread
+
+[link](https://neuromatch.social/@OREL/110416798923399103)
+
 ## Presentation
 
 NONE   
