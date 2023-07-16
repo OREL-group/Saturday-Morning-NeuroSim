@@ -16,4 +16,4 @@ TBA
 
 ## Suplemental Notes
 
-Notes in Notion [link](https://www.notion.so/jopro-org/SMN-2023-29-9c2332c9661f42f58380b3ce6a0adfb1)https://www.notion.so/jopro-org/SMN-2023-29-9c2332c9661f42f58380b3ce6a0adfb1)
+Notes in Notion [link](https://www.notion.so/jopro-org/SMN-2023-29-9c2332c9661f42f58380b3ce6a0adfb1)
