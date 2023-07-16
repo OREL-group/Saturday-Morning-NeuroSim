@@ -1,19 +1,19 @@
 ## Meeting Recording
 
-[YouTube link](---)
+[YouTube link](https://youtu.be/wZnhHhdBb-M)
 
 ## Twitter thread
 
-[link](---)
+[link](https://twitter.com/Orthogonal_Lab/status/1680384899734224896)
 
 ## Mastodon thread
 
-[link](---)
+[link](https://neuromatch.social/@OREL/110721105579691359)
 
 ## Presentation
 
 TBA
 
-## Supplemental Notes
+## Suplemental Notes
 
-Notes in Notion [link](---)
+Notes in Notion [link](https://www.notion.so/jopro-org/SMN-2023-29-9c2332c9661f42f58380b3ce6a0adfb1)https://www.notion.so/jopro-org/SMN-2023-29-9c2332c9661f42f58380b3ce6a0adfb1)
