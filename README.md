@@ -51,7 +51,7 @@ July 2022: [9](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main
 
 August 2022: [6](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/August%206/meeting-notes.md), [13](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/August%2013/meeting-notes.md), [20](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/August%2020/meeting-notes.md), [27](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/August%2027/meeting-notes.md) 
 
-September 2022: [3](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/September%203/meeting-notes.md), [10](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/September%2010/meeting-notes.md)), [17](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/September%2017/meeting-notes.md), [24](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/September%2024/meeting-notes.md)   
+September 2022: [3](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/September%203/meeting-notes.md), [10](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/September%2010/meeting-notes.md), [17](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/September%2017/meeting-notes.md), [24](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/September%2024/meeting-notes.md)   
 
 October 2022: [1](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/October%201/meeting-notes.md), [8](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/October%208/meeting-notes.md), [15](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/October%2015/meeting-notes.md), [22](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/October%2022/meeting-notes.md), [29](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/October%2029/meeting-notes.md)   
 
@@ -73,4 +73,8 @@ June 2023: [3](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main
 
 July 2023: [1](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/July%201/meeting-notes.md), [8](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/July%208/meeting-notes.md), [15](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/July%2015/meeting-notes.md), [22](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/June%2022/meeting-notes.md), [29](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/July%2029/meeting-notes-7-29.md)
 
-August 2023: [5](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/August%205/meeting-notes.md), 12, [19](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/August%2019/meeting-notes.md), [26](---)
+August 2023: [5](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/August%205/meeting-notes.md), 12, [19](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/August%2019/meeting-notes.md), [26](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/August%2026/meeting-notes.md)    
+
+September 2022: [2](---), [9](), [16](---), [24](---), [30](---)   
+
+
