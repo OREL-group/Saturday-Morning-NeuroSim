@@ -4,7 +4,7 @@
 
 ## Twitter thread
 
-[link](https://twitter.com/Orthogonal_Lab/status/1695522961208316081)https://twitter.com/Orthogonal_Lab/status/1695522961208316081)
+[link](https://twitter.com/Orthogonal_Lab/status/1695522961208316081)
 
 ## Mastodon thread
 
