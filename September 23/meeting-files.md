@@ -12,7 +12,7 @@
 
 ## Notes in Notion
 
-[link](https://www.notion.so/jopro-org/SMN-2023-39-8d41d20f4d95486ebaab8b5b711e574a)https://www.notion.so/jopro-org/SMN-2023-39-8d41d20f4d95486ebaab8b5b711e574a)
+[link](https://www.notion.so/jopro-org/SMN-2023-39-8d41d20f4d95486ebaab8b5b711e574a)
 
 ## Presentation
 
