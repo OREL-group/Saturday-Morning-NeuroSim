@@ -8,8 +8,8 @@
 
 ## Mastodon thread
 
-[link](https://neuromatch.social/@OREL/111434569101645794)https://neuromatch.social/@OREL/111434569101645794)
+[link](https://neuromatch.social/@OREL/111434569101645794)
 
 ## Notes in Notion
 
-[link][(https://www.notion.so/jopro-org/SMN-2023-46-396841531dfb4453b2eba0371af09b32?pvs=4)
+[link](https://www.notion.so/jopro-org/SMN-2023-46-396841531dfb4453b2eba0371af09b32?pvs=4)
