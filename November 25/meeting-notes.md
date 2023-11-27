@@ -12,4 +12,3 @@
 
 ## Notes in Notion
 
-[link](---)
