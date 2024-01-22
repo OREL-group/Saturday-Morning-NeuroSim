@@ -4,7 +4,7 @@
 
 ## Mastodon thread
 
-[link](https://neuromatch.social/@OREL/111791400864707261)https://neuromatch.social/@OREL/111791400864707261)
+[link](https://neuromatch.social/@OREL/111791400864707261)
 
 ## Notes on Notion
 
