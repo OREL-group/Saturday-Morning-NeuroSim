@@ -94,4 +94,4 @@ February: [3](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/
 
 March: [2](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/March%202/meeting-notes.md), [9](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/March%209/meeting-notes.md), [16](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/March%2016/meeting-notes.md), [23](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/March%2023/meeting-notes.md), [30](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/March%2030/meeting-notes.md)
 
-April: [6](---), [13](---), [20](---), [27](---)
+April: [6](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/April%206/meeting-notes.md), [13](---), [20](---), [27](---)
