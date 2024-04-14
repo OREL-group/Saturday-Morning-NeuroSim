@@ -1,10 +1,10 @@
 ## Meeting Recording
 
-[YouTube link](---)
+[YouTube link](https://youtu.be/jTyD5aS0aJs?si=sfvAafFKICGx_o_d)
 
 ## Mastodon thread
 
-[link](---)
+[link](https://neuromatch.social/@OREL/112267182926312638)
 
 ## Supplemental Notes
 
