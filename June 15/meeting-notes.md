@@ -1,9 +1,3 @@
 ## Meeting Recording
 
-[YouTube link](---)
-
-## Mastodon thread
-
-[link](---)
-
-## NOTES:
+[YouTube link](https://youtu.be/hplkTym-vmI)
