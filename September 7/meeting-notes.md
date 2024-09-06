@@ -2,7 +2,7 @@
 
 [YouTube link](---)
 
-## MAstodon thread
+## Mastodon thread
 
 [link](---)
 
