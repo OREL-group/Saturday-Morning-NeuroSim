@@ -1,10 +1,10 @@
 ## Meeting Recording
 
-[YouTube link](---)
+[YouTube link](https://youtu.be/sixizsdfKyY)
 
 ## Mastodon thread
 
-[link](---)
+[link](https://neuromatch.social/@OREL/113257300157043166)
 
 ## NOTES
 Open-source or how does open-source empower open science?
