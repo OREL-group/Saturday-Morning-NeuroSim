@@ -4,7 +4,7 @@
 
 ## Mastodon thread
 
-[link](https://neuromatch.social/@OREL/113653469061058947)
+[link](https://neuromatch.social/@OREL/113614823104791622)
 
 ## NOTES
 Jesse, update: finishing up UCSD Masters’ — like to schedule intentional discussion. Project management ahead of January.
