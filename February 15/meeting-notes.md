@@ -6,7 +6,166 @@
 [link](https://youtu.be/6cR2Zg6vGyY)
 
 ## NOTES
+Sampling Efficiency in BabyView paper: what is the difference between organisms and artificial systems?
 
+what is sampling in the context of world models?
+
+learning to walk —> continual learning emphasis.
+
+vision and language models.
+
+
+Robot learning —> robotics focus. Watch, then mimic.
+
+language models — meet world models.
+
+Chinese Room + LLMs. ML Street Talk episode.
+
+“AI is a new way back to CogSci” paper.
+
+NeuroTechX community — robotics stuff. Robotics clubs — well-funded, can be interdisciplinary.
+
+robotics club is a way to show off. AI is a great way to learn about CogSci.
+
+good Theory of Mind performance does not equal sentience.
+
+
+Mentalism —> easy self-trap, related to LLM performance.
+
+DeepSeek craze. What is your intelligence test assessment?
+
+getting to DeepSeek —> creating new benchmarks.
+
+Foundation Models — Automated Capability Discovery (ACD).
+
+visualize AlphaFold progress, looks very different from previous work.
+
+see the forest, not get caught up in the trees.
+
+Stable Control Representations, edge-of-reach problem: Limited horizon rollouts from a fixed dataset leads to 'edge-of- reach' states: states which are used as targets for Bellman-based updates, but which are never themselves updated.
+
+
+Logan Cross (met at NeuroMatch) — World Modeling: “animate agent world modeling benchmark”. Neuro/AI-focused.
+
+counterfactual world modeling.
+
+“more bio-realistic, less heavily supervised learning rules”. — NeuroAI lab (Yamins).
+
+Paul Scotti — Stability AI, generative diffusion model companies —> Neuroimaging head, Discord group.
+
+MedArc — Neuro people, LAION, OnNeuro.
+Mind’s Eye — naturalistic dataset.  Restoring movies from fMRI data. Categorize papers — LLMentalist. Psychic’s con problem. 
+
+softwarecrisis.dev (Book: Out of the Software Crisis).
+
+SSL objective — representation and generalization in Neuro and AI.
+
+NN architectures —> Yasmin’s and DiCarlo, 2016.
+
+map architecture classes of CNN model to brain regions and/or pathways.
+
+
+CogSci —> architecture class, task categorization, dataset.
+
+William Hahn — artificial immune systems, developmental systems.
+
+Glazier paper on in silica models of neural tube closure defects.
+
+agent-based models —> brain development. GRNs, spatial expression in embryos.
+
+
+Viral Epidemiology —> dynamical, ecological —> continuous dynamics, cybernetic vs. dynamical cognition —> lessons for NeuroAI?
+
+reminder: what you’re looking at restricts your views of modeling.
+
+cybernetics view vs. dynamical view. Continuous vs. discrete. 
+
+motor, eye tracking are natural ways to approach this (moving and scanning environment).
+
+data is temporally- and spatially-dependent. Nonlinear attractors vs linear trends.
+
+
+Coordination Dynamics, Synchronization. Two similar complex systems.
+
+Sapolsky — YouTube videos, father-offspring interviews. Why do no congenitally-blind people develop schizophrenia? Two rare things co-exist, but not at small sample sizes.
+
+extend this to continuous data — easy to find thing, not always informative.
+
+Hyperscanning —> very specific tasks, make results more interpretable.
+
+error corrections in cognition and biology.
+
+LLM engineering —> recommendations on multi-agent code developers.
+
+error-corrections in cognition and biology. LLM engineering —> recommendations on multi-agent code developers.
+
+Limiting to having a single code agent vs. a team.
+
+dynamical model of code co-creation.
+
+Simon Williston —> Django co-creator. LLMs can be a good code generator.
+Cross, Spivey —> multi-agent —> ToM of other agents in open-source projects.
+
+community — synchronizing and incorporating new agents.
+
+
+Langchain —> how information flows, good for multi-agents.
+
+emphasis on reasoning models —> MetaGPT —> deepwisdom.ai
+
+LLM —> ABM —> reasoning models.
+
+
+GLIMPRINT — continuous agent-based model —> bridges fundamentally different architectures. 
+
+Default network in the brain —> connected to everything, does it mean anything?
+
+AGI —> some agent has it, what taks would you give it to show this?
+
+LeCun —> AI action summit in Paris.
+
+LLMs not Royal Road here. Depends on benchmarks: nudges retrieval into reasoning.
+
+* LSTM —> LLMs are just originator — a database — tex input to different models. Depends on benchmarks.
+
+
+
+Sarrah Bastawala
+Sarrah Bastawala says:
+https://github.com/geekan/MetaGPT
+ 
+11:07
+
+Sarrah Bastawala says:
+https://github.com/OpenBMB/AgentVerse
+ 
+11:11
+
+Sarrah Bastawala says:
+https://docs.google.com/presentation/d/10Oe4Ep5H108I8Jm8CCxDXk6WOYQ_y8o5TK9W_x82IkA/edit?usp=sharing
+
+This was also the original presentation (i.e one before doing the project) which should also help @morgan 
+11:16
+
+Morgan Hough
+Morgan Hough says:
+Global Alliance for Immune Prediction and Intervention 
+11:19
+
+Morgan Hough says:
+https://www.youtube.com/live/-Rw7oKwms5s?si=90due2E6af2TXH_7
+ 
+11:20
+
+Sarrah Bastawala
+Sarrah Bastawala says:
+DeepLearning can always be trusted with the best resources for this, he mentions some frameworks in this as well : 
+https://www.deeplearning.ai/the-batch/agentic-design-patterns-part-5-multi-agent-collaboration/
+
+Also I've read both Chatdev and Metagpt from the mentioned papers in this and definitely both have really good results of the multi-agent framework as well as really good results.
+
+Another (a bit extensive ) but good resource to find anything regarding llms that keeps getting updated as well is: 
+https://github.com/AGI-Edgerunners/LLM-Agents-Papers?tab=readme-ov-file#multi-agent-system
 
 ## TRANSCRIPT
 0:01   
