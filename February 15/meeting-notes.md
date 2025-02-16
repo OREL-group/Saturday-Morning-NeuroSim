@@ -1,12 +1,11 @@
 ## Meeting Recording
 
-[YouTube link](---)
-
+[YouTube link](https://youtu.be/6cR2Zg6vGyY)
 ## Mastodon thread
 
-[link](---)
+[link](https://youtu.be/6cR2Zg6vGyY)
 
-## NOTES:
+## NOTES
 
 
 ## TRANSCRIPT
