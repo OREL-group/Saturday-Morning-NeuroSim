@@ -7,6 +7,85 @@
 [link](https://neuromatch.social/@OREL/114049626908301818)
 
 ## NOTES
+Zero- and n-shot learning: language learning in development (kids).
+
+Several learning systems -- sharing some larger context space.
+
+* kids are good at one-shot learning, rapid learning, inductive bias.
+
+* meta-learning groups -- continual learning (NNs cannot learn on their own).
+
+* learning when things should NOT be related -- listen to kids playing (Piaget).
+
+
+Link to associative learning. Importance of revisiting Emily Bender @ DAIR (Mystery AI Hype 
+Theater 3000 -- https://www.dair-institute.org/maiht3k/).
+
+* Cory Doctorow -- receive an incredible amount of marketing hype. Why should companies still be in charge?
+
+* continually failed roll-outs of AI technologies --> extension of world models --> AI scientists.
+
+* Alphafold example -- really specific world models. 
+
+* is this a world model? or a more fuzzy concept of planning?
+
+
+Douglas Adams story about deep thought -- did you actually know what the question is?
+
+* zero-shot learning -- cognitive development in children.
+
+* super-vague recollections. Multimodal continual learning system (you are a complex learning landscape).
+
+* "Map (Data) is not the Territory (World Model)" efficiency. 
+
+* out-of-distribution questions.
+
+
+Theoretical Neurobiology group meetings -- Friston.
+
+* Monday -- application, Tuesday -- theory.
+
+* ActInf institute --> new textbook cohort.
+
+* what it means --> philosophy and visualizations.
+
+
+Alphafold -- consider unintuitive and world-breaking things.
+
+* not intuitive physics, letting go of human-made heuristics.
+
+* argument against world models. Representation of the rules -- what would it look like?
+
+
+Insight into a complex electrical system --> isolate components. What does signal looks like?
+
+* transformations, renormalizations, etc.
+
+* platonic ideal of world models, shadows playing on a cave wall.
+
+* Hoffman's simulation theory, limited spectrum, uncoveringour own vagueness.
+
+
+Simon Williston -- moving goalposts on ChatGPT.
+
+RxInfer --> implementations --> training. WeightWatchers meeting --> look @ weights without data.
+
+* zero-shot-like: another way of looking at effects of training.
+
+* MNIST, vision models. Speech decoding --> typing --> gives an objective for thought.
+
+* Speech MOABB --> speech, BCI datasets. Stuff in #devneuroAI, #networks channels.
+
+
+Motivational Psychology --> black boxes, constructs, development, computational models.
+
+* motivation and cognition (interplay), interesting work (computational psychiatry).
+
+* model behavior changes that happen --> neurodegeneration, exploration/exploitation tradeoff.
+
+* artificial systems lack --> Niv, Trends in Cognitive Science, 2006.
+
+* post-Piagetian --> critical periods matter, underlie shifts in system.
 
 ## TRANSCRIPT
 0:00     
