@@ -73,6 +73,73 @@ Simulation to control sensory input, RL to control agentive policies.
 
 * no longer (exploring environment), exploring statistical space.
 
+## TRANSCRIPT:
+Sarrah: open-ended project description.
+
+Agent-hybrid models --> imporve environment.
+
+* how agents react to chats, rewards.
+
+* evaluate, adding features to environment.
+
+* integrate actions around communication aspect.
+
+
+Sarrah would be a recommender, additions to LLM itself. LLM agents, RL ideas.
+
+* Neurofedora -- project description will be coming soon. 
+
+* hypergraph -- a couple of things to contribute.
+
+* Ludobot community -- courses, lectures, new content is online.
+
+
+Evolutionary Robotics: evolutionary algorithms. 
+
+* Computational Psychiatry --> seeing everything in one place. Web repository, preprint.
+
+* Nicole Rust --> do more SciComm.
+
+
+January 21 --> textbook reading --> SF CogSci Reading Group.
+
+* challenge anti-science bias.
+
+* modeling -- readiness potential and in vitro signal for movement (intentional).
+
+* connections between Ludobots and Dishbrain.
+
+* POMDP --> how to make spontaneous activity --> goal-directed?
+
+* FEP --> when does it become falsifiable? Inference, more than variational?
+
+
+Ludobots --> Braitenberg connections.
+
+* BVs --> Ludobots --> Sodaplay.
+
+* textbook reading group, student (Computational Psychiatry).
+
+* Ryan Smith tutorial. No one-stop place for a beginner. Terminology barrier.
+
+
+Rise of RL in AI areas -- gameplay, robotic control, model-based RL and related areas.
+
+* PyBullet vs. DART vs. ???
+
+* Neuronal culture experiments (NeuroTech @ Berkeley + Braingeneers).
+
+* Dishbrain 2.0 --> how would you use it? New experiments.
+
+* spinning up RL --> educational materials and platform.
+
+
+Simulation to control sensory input, RL to control agentive policies.
+
+* dumb down ActInf, predict bias of a coin toss, losing some "Active" in the process.
+
+* no longer (exploring environment), exploring statistical space.
+
 ## TRANSCRIPT: 
      
 Transcript     
