@@ -100,9 +100,7 @@ Jes (OREL)
 Jes (OREL) says:
 Morgan, can you post anything re the comptuational epdimenillgy or the James G work in the new "research-management" channel I made? There's a tie to somethign I said at the start of the meeting I might want to follow up on 
 
-## TRANSCRIPT
-     
-Transcript     
+## TRANSCRIPT 
 0:01     
 hello     
 0:07     
