@@ -1,4 +1,9 @@
-## Saturday Morning NeuroSim
+<CENTER>
+<H2>
+Saturday Morning NeuroSim
+</H2>
+<IMG SRC="https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/SMN.png">  
+</CENTER>
 Repositories and topics related to the Saturday Morning NeuroSim topical meeting
 
 ### 2020   
