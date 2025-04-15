@@ -7,8 +7,6 @@
 [link](https://neuromatch.social/@OREL/114329063824584427)
 
 ## TRANSCRIPT
-     
-Transcript     
 0:01     
 hello     
 0:06     
