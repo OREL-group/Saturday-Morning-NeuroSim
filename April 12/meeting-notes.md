@@ -6,9 +6,6 @@
 
 [link](https://neuromatch.social/@OREL/114329063824584427)
 
-## NOTES
-
-
 ## TRANSCRIPT
      
 Transcript     
