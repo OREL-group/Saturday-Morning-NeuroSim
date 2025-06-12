@@ -7,7 +7,77 @@
 [link](https://neuromatch.social/@OREL/114654821508131547)
 
 ## Notes
+Using LLMs to synthesize meetings (individual, 6 month intervals).
 
+* workflow, pattern for this function (ekkolapto, metascience).
+
+* progress studies, frontier maps. Interesting lens, theoretical spaces to be explored.
+
+* team --> builds things, formats of map vs. territory.
+
+* intro-inter meetings --> we can analyze meetings.
+
+
+Making accessible reference points to organization, interaction spaces, rough relation of the map to the territory.
+
+* metascience and language models.
+
+* Morgan --> C. elegans. LLM diplomacy match (expressing strategies).
+
+* ekkolapto -- Electronic Skin for Human Augmentation (Paul Han -- Neurotech).
+
+* Peter Voss and William Edward Hahn -- Machine Perception, Cognitive-level AI.
+
+* Principles of AGI, self-awareness, cognitive AI.
+
+
+Head of Model Behavior and Policy (OpenAI) --> post. Joanne Jang (reservoir samples).
+
+* Dan Fagella --> disagree with Peter Voss trajectory.
+
+* aigo.ai --> rate of generating tokens.
+
+* Theoretical/Macro --> Practice. Lifespans and time-scales.
+
+* how do we have more functional interactions? How do we have functional discusions about the way forward?
+
+* destination-based research (discernment) --> chart trajectories through complexity.
+
+
+Plot Twisters -- Governable Spacemakers. Quantum ML and Neuroscience.
+
+* native image generation for 4o.
+
+* Cosmos Institute (AI x Philosophy). Habermas Machines (AI can help humans .. democratic deliberation).
+
+* Science paper. Not decision-making but mediator.
+
+* social, ethical benefits of deliberation.
+
+Bioeletronics --> MEAs, choose different materials for substrate. e-Skin --> sense of touch, at resolution 
+of fingertips.
+
+
+Challenge of Compositional AI: multiple levels of embedded, recursion.
+
+* Case for Compositional AI: the way constituents are combined. Optional LLMs might be.
+
+* the way constituents are combined (Case for Compositionality -- Szabo).
+
+* comprehension -- recovery of relationships, representation.
+
+* semantic parser -- predict next word vs. composition (decompose into entries, relationships).
+
+
+Gato: LLM that integrates perception --> keep track of blocks, etc. Blocks World -- pose challenges.
+
+* Marcus and Paul, 2022 --> representation of a sequence of actions.
+
+* controllability -- LLMs fabricate things.
+
+* Compositionality -- what is its nature? Explainable, verifiable, interpretable.
+
+* does not match linguistic tree.
 
 ## TRANSCRIPT    
 0:00     
