@@ -6,7 +6,7 @@
 
 [link](https://neuromatch.social/@OREL/114923674830623170)
 
-## FEATURE VIDEOS
+## Feature Videos
 [Cybernetics, Proto-Complexity Theory, and Intellectual Flatlands](https://youtu.be/b-7fdzPFsSA)
 
 ## TRANSCRIPT 
