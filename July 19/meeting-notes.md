@@ -6,6 +6,9 @@
 
 [link](https://neuromatch.social/@OREL/114881313168105347)
 
+## Feature Videos
+[Braitenberg's Neuroanatomy and Synthetic Neurobiology Work](https://youtu.be/40tP-uh5bp4)
+
 ## NOTES
 Morgan: microfluidic systems. Melt in a gel solution, perusable scaffold: collagen is fluffy.
 
