@@ -6,6 +6,9 @@
 
 [link](https://neuromatch.social/@OREL/114763152513054545)
 
+## Feature Videos
+[Valentino Braitenberg and his Cognitive Manifesto](https://youtu.be/xfO4V_JyOTo)
+
 ## NOTES
 Lower the barrier to entry for "wet lab" techniques.
 
