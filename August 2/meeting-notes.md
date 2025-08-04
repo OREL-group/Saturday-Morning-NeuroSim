@@ -6,7 +6,7 @@
 
 [link](https://neuromatch.social/@OREL/114968665190053153)
 
-## FEATURE VIDEOS
+## Feature Videos
 [A (modern) tale of connectionism](https://youtu.be/7Ep2Moxy96s)
 
 ## TRANSCRIPT 
