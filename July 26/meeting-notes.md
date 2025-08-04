@@ -6,6 +6,9 @@
 
 [link](https://neuromatch.social/@OREL/114923674830623170)
 
+## FEATURE VIDEOS
+[Cybernetics, Proto-Complexity Theory, and Intellectual Flatlands](https://youtu.be/b-7fdzPFsSA)
+
 ## TRANSCRIPT 
 0:00    
 Hello. Um, today I'm going to give a solo Saturday morning neurosim meeting    
