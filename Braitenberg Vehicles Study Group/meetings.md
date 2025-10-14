@@ -56,7 +56,7 @@ December 7, 2019 [link](https://youtu.be/8OQotzkbSPg)
 
 December 14, 2019 [link](https://youtu.be/-mTxvKVvhkQ)     
 
-Outcomes:
+Outcomes:     
 February 28, 2020 [arXiv submission](https://arxiv.org/abs/2003.07689)
 
 August 4, 2022 [Artificial Life publication](https://direct.mit.edu/artl/article-abstract/28/3/369/112444/Braitenberg-Vehicles-as-Developmental?redirectedFrom=fulltext)
