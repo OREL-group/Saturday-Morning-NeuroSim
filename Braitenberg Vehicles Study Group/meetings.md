@@ -53,12 +53,3 @@ November 30, 2019 [link](https://youtu.be/gIooJMGYFpg)
 December 7, 2019 [link](https://youtu.be/8OQotzkbSPg)    
 
 December 14, 2019 [link](https://youtu.be/-mTxvKVvhkQ)    
-
-January 11, 2020 [link](https://youtu.be/vkzeUh0Kwjs)    
-
-January 18, 2020 [link](https://youtu.be/YV1LyjWRuIE)    
-
-January 25, 2020 [link](https://youtu.be/2SxzREZzioc)    
-
-February 1, 2020 [link](https://youtu.be/LrugkccY-30)     
-
