@@ -7,7 +7,9 @@ Saturday Morning NeuroSim
 Repositories and topics related to the Saturday Morning NeuroSim topical meeting
 
 ### 2020   
-February: [8](https://youtu.be/z90wqXK5POI), [15](https://youtu.be/FCl8XM8hbTU), [22](https://youtu.be/-yqCNX-3iK8), [29](https://youtu.be/Aen5WINkyu0) 
+January: 4, [11](https://youtu.be/vkzeUh0Kwjs), [18](https://youtu.be/YV1LyjWRuIE), [25](https://youtu.be/2SxzREZzioc),    
+
+February: [1](https://youtu.be/LrugkccY-30), [8](https://youtu.be/z90wqXK5POI), [15](https://youtu.be/FCl8XM8hbTU), [22](https://youtu.be/-yqCNX-3iK8), [29](https://youtu.be/Aen5WINkyu0) 
 
 March: [7](https://youtu.be/C9ftiV9uYjY), [14](https://youtu.be/zZqVDeiVdyA), [21](https://youtu.be/lsBMRg9xDVA), [28](https://youtu.be/ymj0kGDu2YM)
 
