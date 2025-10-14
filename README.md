@@ -7,6 +7,18 @@ Saturday Morning NeuroSim
 Repositories and topics related to the Saturday Morning NeuroSim topical meeting
 
 ### 2020   
+February: [8](https://youtu.be/z90wqXK5POI), [15](https://youtu.be/FCl8XM8hbTU), [22](https://youtu.be/-yqCNX-3iK8), [29](https://youtu.be/Aen5WINkyu0) 
+
+March: [7](https://youtu.be/C9ftiV9uYjY), [14](https://youtu.be/zZqVDeiVdyA), [21](https://youtu.be/lsBMRg9xDVA), [28](https://youtu.be/ymj0kGDu2YM)
+
+April: [4](https://youtu.be/FKb8ExGYw4w), [11](https://youtu.be/d3rp84tKRpE), [18](https://youtu.be/XncKn954pes), [25](https://youtu.be/w6-UkV6ESnU) 
+
+May: [2](https://youtu.be/Aa8v8cS3gkA), [9](https://youtu.be/m6PdBz20ACc), [16](https://youtu.be/Oqn0_7X2sY0), [23](https://youtu.be/G8D4hHaSgWI), [30](https://youtu.be/hqgkVWvoqfE)
+
+June: [6](https://youtu.be/ShHAessM_O4), [13](https://youtu.be/BlyI_Sm1MW0), [20](https://youtu.be/smigAL2_x3E), [27](https://youtu.be/UK9MW6k1VFs)     
+
+July: [4](https://youtu.be/phYIybRkNRU), [11](https://youtu.be/pPnyYfpZjog), [19](https://youtu.be/37Isn3ljCWU), [25](https://youtu.be/hv5b28yoFnc)   
+
 August: [1](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/August%201), [8](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/August%208), [15](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/August%2015), [22](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/August%2022), [29](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/August%2029)   
 
 September: [5](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/September%205), [12](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/September%2012), [19](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/September%2019), [26](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/September%2026)  
