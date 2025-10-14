@@ -52,4 +52,4 @@ November 30, 2019 [link](https://youtu.be/gIooJMGYFpg)
 
 December 7, 2019 [link](https://youtu.be/8OQotzkbSPg)    
 
-December 14, 2019 [link](https://youtu.be/-mTxvKVvhkQ)    
+December 14, 2019 [link](https://youtu.be/-mTxvKVvhkQ)     
