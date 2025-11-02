@@ -1,6 +1,6 @@
 ## Meeting Recording
 
-[YouTube link](---)
+[YouTube link](https://youtu.be/ogXMm9Abp6Y)
 
 ## Mastodon thread
 
