@@ -21,6 +21,33 @@ NetLogo --> doesn't need to be accurate, but scenario-building.
 
 * what are the goal of open-source sustainability.
 
+YT channel -- Verasitum. 
+
+* retention: Github PRs, count lines of code, engineering health - activity tracking, product health (surveys, roadmaps).
+
+* Artificial Life --> models provide insight (regerdless of accuracy).
+
+CHAOSS/AUGUR: GrimoireLab. Difficult to deploy, but can see overall health over the course.
+
+* hard to know what future solution should be, from gridworld.
+
+* comments - indicate interest in issues, project.
+
+* perfection - people lose interest.
+
+2% contributions end up contributing - focus on large community.
+
+* minimum viable population. Processing Foundation, MESA Foundation - liked Sarrah's UI.
+
+* Bioinformatics convos about DevoWorm. upsidedownlabs.tech
+
+* CHAOSS - extension of conventional metrics, tools, collect more data.
+
+Features of agent-based models, but difficult to implement.
+
+* Human Factors --> diverse contributions, healthy culture, prioritizing feedback/communication.
+
+* "ASK" mandate, user-developer link. Need for hierarchy --> lieutenants (help out in top-down organization).
 
 Technical Achievements --> LLMs, RLs, ActInfs.
 
