@@ -14,7 +14,7 @@
 
 
 ## NOTES
-A;phaEvolve paper: arXiv:2506.13131
+AlphaEvolve paper: arXiv:2506.13131  (see November 22 meeting).
 
 SF Startup culture -- how can we get ImageNet dataset from action? Embodiment training, self-supervised probabilities.
 
