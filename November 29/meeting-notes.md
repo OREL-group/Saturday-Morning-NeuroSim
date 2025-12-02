@@ -13,10 +13,6 @@
 ## NOTES
 
 ## TRANSCRIPT
-Transcript   
-   
-   
-Search in video   
 0:01   
 So, how are you? I'm good. How are you? All right.   
 0:08   
