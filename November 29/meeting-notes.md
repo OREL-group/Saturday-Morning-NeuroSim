@@ -13,6 +13,22 @@
 ## NOTES
 
 ## TRANSCRIPT
+Transcript
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 0:01
 So, how are you? I'm good. How are you? All right.
 0:08
@@ -2020,8 +2036,7 @@ this. We've been working hard for a very long time in a set of problems of extra
 1:48:42
 Talking about our profession and our disorders to ourselves, our colleagues and patients using metaphorical brain
 1:48:48
-talk is scientifically immature and ultimately disrespectful to our patients. Unless we know otherwise, we
-1:48:56
+talk is scientifically immature and ultimately disrespectful to our patients. Unless we know otherwise, we     1:48:56
 should assume that our patients want us to tell it like it is. Doc, even when that means we cannot tell pretty stories
 1:49:02
 about serotonin imbalances. When we describe the suffering of our patients, we don't have to dress up the
