@@ -172,6 +172,6 @@ December: [6](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/
 
 [AI Summary (June-December)](https://youtu.be/7r6q4Hyq3lQ)     
 
-January: [3](), [10](), [17](), [24](), [31]()
+January: 3, [10](), [17](), [24](), [31]()
 
 
