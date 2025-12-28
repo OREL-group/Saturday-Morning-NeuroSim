@@ -171,3 +171,7 @@ November: [1](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/
 December: [6](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/December%206/meeting-notes.md), [13](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/December%2013/meeting-notes.md), [20](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/December%2020/meeting-notes.md), 27    
 
 [AI Summary (June-December)](https://youtu.be/7r6q4Hyq3lQ)     
+
+January: [3](), [10](), [17](), [24](), [31]()
+
+
