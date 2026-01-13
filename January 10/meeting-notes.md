@@ -15,10 +15,6 @@
 
 
 ## TRANSCRIPT
-Transcript
-
-
-Search in video
 0:00
 Hello. Morning. Yeah. Welcome to the new year.
 0:08
