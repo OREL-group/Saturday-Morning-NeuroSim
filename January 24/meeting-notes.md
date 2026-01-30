@@ -12,6 +12,10 @@ NONE
 
 ["Ask a Cyberneticist" RAG Encodings](https://youtu.be/L1GHPCrCUNo)
 
+[JoPro Year in Review 2025](https://youtu.be/VUIzpBjnswg)
+
+
+
 ## NOTES
 Not answering a particular question --> simulating different changes in tissue composition.
 
