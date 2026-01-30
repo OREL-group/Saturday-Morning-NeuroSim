@@ -13,6 +13,121 @@ NONE
 ["Ask a Cyberneticist" RAG Encodings](https://youtu.be/L1GHPCrCUNo)
 
 ## NOTES
+Not answering a particular question --> simulating different changes in tissue composition.
+
+* infer tissue structure from MRI --> at each voxel, what is the best model?
+
+* statistical comparisons of model features. Brain tumor data --> heterogeneity of a tumor.
+
+* people who have a lot of text associated with them.
+
+
+Hitchens, Levin bot --> the more source material, the more idiosyncratic.
+
+* what goals -- can you use something like this for good?
+
+* BrainGPT -- Brad Love project. Trained on Neuro papers. 
+
+* experimental design -- what will you find?
+
+
+Finding something potentially problematic with experimental design.
+
+* NeuroTechX -- RAG model. Put together a review paper easier? What is the use case?
+
+* Keyword search --> PubMed vs. RAG embedding. "Finding a deeper similarity".
+
+* JoPro letter --> institutional capacity -- setting directions, early-stage project.
+
+
+Development Cycle --> unit tests, building a framework --> synthetic data, real-world data.
+
+* fast development -- without optimization, cuts ties to tool creation.
+
+* Morgan --> reading group paper --> human data, metacognition --> improve ill-sturctured task performnce.
+
+* placeholder --> agents created something not specified --> use JULES as a path across development.
+
+"Better Code, Better Education". 
+
+
+Stack (do subagents share context in some way):
+
+1) Gemini-Antigravity IDE from Google.
+
+2) Reasoning Model.
+
+3) IDE with Multiagent Feature (creates subagents).
+
+
+Practical Diffusion, microstructural imaging in Python.
+
+* where is H20 free to move and where is it restricted? Inter-axon H20 free, extracts implementation, soma.
+
+
+Big Picture Reasoning:
+
+* need more guidance -- NVIDIA containers vs. PIP Install, setting rules for all agents.
+
+* agents create docs --> other agents use them.
+
+* 
+
+
+
+Gas Town: Claude code multi-agent.
+
+* big-picture reasoning. Need more guidance (NVIDIA containers vs. PIP install). Agents create docs, other agents use them. Setting rules for all agents.
+
+
+Cognitive Foundations for Reasoning, Manifestation in LLMs.
+
+* complex tasks, but can't add two numbers, hard to get at internals of reasoning. What's the best approach?
+
+* use 28 reasoning categories, better at restrategizing?
+
+* if you help a model, helps performance (Algorithms We Live By)
+
+* can we do CogSci without LLMs?
+
+* PyTorch, CUDA, OpenCL --> set up programming environments --> agent wraps work.
+
+
+Not answering a particular question --> simulating different changes in tissue composition.
+
+* infer tissue structure from MRI --> at each voxel, what is the best model?
+
+* statistical comparisons of model features. Brain Tumor data.
+
+
+People who have a lot of text associated with them. Hitchens Bot, Levin Bot --> the more source material, the more idiosyncratic.
+
+* Ask a Cybernetician --> Ashby bot, Weiner bot.
+
+
+Mental Health paradigms and perspectives --> iterated on it. For a couple of weeks. Things will change a lot. 
+
+* theories of "what they are doing". Individual experience around using theories --> "what is it like"?
+
+* social work curriculum --> very interdisicplinary.
+
+* Media Lab-style project. Futures Center -- Jopro flagship. Institute for Progress. Futurist-style websites.
+
+* need to contextualize, what does this space offer? DAIR is doing virtual events, Possible futures (AI isn't inevitable).
+
+* RAG embeddings: now, why would you use for research? Narrative Formation --> literature.
+
+* surveillance to anti-veillance.
+
+
+Molly --> automated decision-making, allostatic kinds -- what yields interactions?
+
+* modernizing mental health. Cognition Futures --> links with Ekkolapto, new activities?
+
+* Princeton Envision --> NYCWiC. Fallign asleep on a communication space.
+
+
+Currently there is too much pressure to create a media brand, content domain, where do we "show up" --> JoPro socials.
 
 
 ## TRANSCRIPTS
