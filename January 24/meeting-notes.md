@@ -1872,3 +1872,906 @@ Um I think in it is in the spirit of cybernetics because you're building these f
 models and you're using machines     
 45:02     
 uh intelligence augmentation to do     
+
+
+Transcript for "JoPro Year in Review 2025"    
+    
+0:00     
+All right. So, I'm going to review uh     
+0:04     
+Jesse's Joe work. Um he recently sent     
+0:08     
+out an email. This is actually a post on     
+0:10     
+a on the Job Pro Substack     
+0:13     
+and it's discussing sort of progress     
+0:16     
+made in 2025 reviewing some of the     
+0:19     
+things that have been sort of     
+0:20     
+foundational in 2025 and will hopefully     
+0:24     
+help build to subsequent years.     
+0:27     
+So, I'm going to go through this email     
+0:29     
+and I'm going to talk a little bit about     
+0:31     
+some of the things we discussed in the     
+0:32     
+last week. Um, a lot of things,     
+0:36     
+interesting things bubbling to the     
+0:37     
+surface with respect to JPro.     
+0:41     
+So, uh, this was, uh, a year-end review     
+0:44     
+post. Um, so this year, meaning 2025,     
+0:48     
+many of the people we worked with, these     
+0:50     
+include researchers, practitioners, and     
+0:52     
+builders across fields, share a similar     
+0:55     
+concern. They were learning quickly,     
+0:57     
+adopting new tools, and meeting the     
+1:00     
+expectations placed in front of them.     
+1:02     
+Yet, many felt uncertain about how their     
+1:04     
+work fit together, how to make decisions     
+1:07     
+with long-term consequences or how to     
+1:09     
+grow into roles that require more     
+1:11     
+execution, more than execution alone. So     
+1:14     
+this is something where you know we've     
+1:16     
+been exploring this uh topic in the     
+1:19     
+orthogonal web quite a bit where we're     
+1:21     
+thinking about synthesis and     
+1:23     
+synthesizing a lot of the ideas that we     
+1:26     
+kind of throw up in the air in our     
+1:27     
+meetings, our weekly meetings and in our     
+1:30     
+other kind of specialized meetings and     
+1:33     
+you know we put out a lot of papers but     
+1:35     
+we never go back and sort of integrate     
+1:37     
+those things. And in fact, from my     
+1:41     
+administrative work in the orthogonal     
+1:43     
+web, I can tell you that this is     
+1:45     
+something we're working harder on now     
+1:47     
+because we need to sort of reflect on     
+1:50     
+where we've been, especially when you do     
+1:53     
+a lot of work and then that kind of just     
+1:55     
+gets lost and you need to have insight     
+1:58     
+going forward, but you don't necessarily     
+2:00     
+have that insight     
+2:02     
+because the pressure is always go to is     
+2:04     
+always to go to the next big thing. What     
+2:06     
+stood out was not confusion, but a lack     
+2:08     
+of orientation, a sense that the systems     
+2:11     
+engulfing us offer brittle outputs and     
+2:14     
+legacy credentials with a pronounced     
+2:16     
+lack of guidance for becoming     
+2:17     
+responsible wayfinding actors within     
+2:20     
+complex evolving fields.     
+2:23     
+And so we actually do a lot of     
+2:25     
+interdisciplinary work in the orthogonal     
+2:27     
+web. And that resonates I think with a     
+2:30     
+lot of not just what's going on in the     
+2:32     
+orthogonal web but a lot of other um     
+2:35     
+groups research groups and um working     
+2:39     
+groups that we are interacting with. And     
+2:42     
+so it makes sense to build not just to     
+2:44     
+build tools for integration but to     
+2:47     
+engage in the practice of synthesis and     
+2:49     
+integration of ideas. the formation of     
+2:52     
+discernment, building coherence beyond     
+2:54     
+disciplinary silos and the ability to     
+2:56     
+navigate uncertainty     
+2:58     
+are increasingly treated as discrete,     
+3:01     
+private or even irrelevant problems. So     
+3:04     
+this first link is to the these notes on     
+3:06     
+community and leadership in the wake of     
+3:08     
+stability. This is something that Jesse     
+3:10     
+wrote in 2025 on June 11th.     
+3:14     
+uh this kind of talks a little bit about     
+3:17     
+thinking about problem spaces and how     
+3:20     
+you approach these. I think we've talked     
+3:22     
+about this in the Saturday morning     
+3:24     
+narosim meetings um enough so that we     
+3:27     
+don't have to spend too much time on it     
+3:30     
+but basically um you know having to sort     
+3:33     
+of work around     
+3:36     
+uh problems communicate vision properly     
+3:39     
+and the sort of the the consequences of     
+3:42     
+not doing that. Then he goes on to say     
+3:44     
+one here is a growing resignation. This     
+3:47     
+is out of our hands.     
+3:49     
+To better to look away or focus     
+3:51     
+elsewhere or else when that posture sits     
+3:55     
+uneasily besides the agentric rhetoric     
+3:57     
+of flourishing center technologists,     
+4:00     
+ethically courageous innovators were     
+4:02     
+indeed philosopher builders. The more     
+4:05     
+generative stance has often been quieter     
+4:07     
+and more demanding. That is nobody     
+4:09     
+taught us how to do what this moment     
+4:11     
+requires. So we are teaching ourselves.     
+4:15     
+This post refers to uh this event that     
+4:18     
+uh Jesse attended at the Cosmos     
+4:20     
+Institute where they uh had they sort of     
+4:24     
+styled themselves as an academy for for     
+4:27     
+they styled themselves as an academy for     
+4:30     
+philosopher builders.     
+4:33     
+And so this is something that he's     
+4:35     
+trying to replicate in Jopro. Speaking     
+4:37     
+of philosopher builders, as Brendan     
+4:39     
+McCord noted during the Cosmos     
+4:41     
+Institute's year end note, technology     
+4:43     
+that expands what is possible may narrow     
+4:46     
+who is possible, but it need not. I     
+4:49     
+would extend that observation beyond who     
+4:51     
+to where. When the range of who is     
+4:53     
+possible contracts, so too does the     
+4:55     
+range of futures we can chart along with     
+4:58     
+the institutional and epistemic pathways     
+5:00     
+that make those futures reachable. So     
+5:03     
+very much about inclusion but also uh     
+5:07     
+thinking about how the things that we     
+5:09     
+adopt in our organizations     
+5:12     
+enable or disable that sort of inclusion     
+5:15     
+and then harnessing the potential of     
+5:17     
+your organization to make change and do     
+5:20     
+great things. So again, and then he goes     
+5:22     
+over the moment we find ourselves in.     
+5:24     
+For much of the last century, our     
+5:26     
+institutions for learning, research, and     
+5:28     
+innovation were designed around narrower     
+5:30     
+assumptions. That is clearer     
+5:32     
+disciplinary boundaries, slower feedback     
+5:35     
+cycles, and more homogeneous pathways     
+5:37     
+into expertise and authority. So again,     
+5:40     
+consolidating things around a     
+5:42     
+hierarchical structure and having this     
+5:45     
+sort of limited amount of feedback as     
+5:48     
+opposed to the sort of fast iterative     
+5:50     
+feedback that we might have um that we     
+5:54     
+have maybe in in the modern day in     
+5:57     
+something like agile management or you     
+5:59     
+might find in small startups, technology     
+6:02     
+startups. You don't necessarily find     
+6:04     
+this in um in learning and research     
+6:08     
+institutions.     
+6:10     
+Even then, many forms of knowledge,     
+6:12     
+expertise, and responsibility were     
+6:14     
+marginalized or excluded. So again, this     
+6:18     
+sort of maybe unintentionally or maybe     
+6:20     
+sometimes intentionally excluded a lot     
+6:23     
+of viewpoints that may have been     
+6:24     
+valuable to formulating good     
+6:28     
+conclusions, uh making change and things     
+6:31     
+like that.     
+6:33     
+Today, as complexity accelerates and     
+6:35     
+domains collide, those limitations are     
+6:38     
+no longer merely unjust or inefficient,     
+6:40     
+they are structurally misaligned with     
+6:42     
+the kinds of problems people are now     
+6:44     
+being asked to work on.     
+6:46     
+The challenge is not that we've lost the     
+6:47     
+golden age of formation, but that we are     
+6:50     
+encountering at scale the consequences     
+6:52     
+of institutions that were never built to     
+6:54     
+support integrated comprehensions, cross     
+6:57     
+field coordination, or long horizon     
+7:00     
+responsibility in the first place.     
+7:02     
+Joe exists because those gaps keep     
+7:05     
+showing up in practice across fields,     
+7:08     
+institution, and career stages.     
+7:11     
+It shows up when interdisciplinary work     
+7:13     
+collapses under the way to mismatched     
+7:15     
+assumptions and timelines.     
+7:18     
+And it shows up when conversations about     
+7:20     
+ethics or responsibility are detached     
+7:22     
+from the lived realities of learning,     
+7:24     
+leadership, and decision-m.     
+7:27     
+Over time, it became clear that     
+7:28     
+addressing this gap could not be done by     
+7:30     
+focusing on any single pro program,     
+7:33     
+discipline or institution in isolation.     
+7:37     
+So this these challenges uh are not     
+7:40     
+failures of individual effort but of     
+7:42     
+surrounding ecosystems people are asked     
+7:44     
+to operate within.     
+7:47     
+And so this shaped how uh the vision for     
+7:51     
+Joe evolved over the year. Instead of     
+7:54     
+treating Joe Pro as a standalone     
+7:55     
+platform or pipeline, we increasingly     
+7:58     
+understood our work as part of a broader     
+7:59     
+landscape, one that depends on     
+8:01     
+relationships between groups, shared     
+8:04     
+language across domains and people     
+8:06     
+willing to take on the work of     
+8:07     
+translation and coordination.     
+8:10     
+In other words, the question became not     
+8:12     
+just what we build, but how the     
+8:14     
+conditions for building and becoming are     
+8:16     
+cultivated.     
+8:18     
+Um, so this is really kind of going over     
+8:20     
+some of the Joe Pro events this year     
+8:22     
+that took many forms. And this is a     
+8:24     
+figure showing some of the things that     
+8:25     
+were going on. So this is the Metagv     
+8:28     
+space makers project with plot twisters.     
+8:32     
+There's uh an attendance at fact which     
+8:35     
+is of course the uh technology ethics     
+8:39     
+section of the ACM.     
+8:42     
+There was participation in wei robot     
+8:44     
+2025 as well as participation in Google     
+8:47     
+summer of code.     
+8:49     
+There were these Joe Pro socials, so     
+8:51     
+online socials where you know these     
+8:53     
+topics were discussed,     
+8:55     
+the spring expo at UC San Diego for     
+8:58     
+educational innovation.     
+9:01     
+And then some part educational     
+9:03     
+participants here, things especially the     
+9:06     
+human augmentation summit which Jesse     
+9:08     
+attended and some images of that. So a     
+9:12     
+lot of participation this year.     
+9:15     
+So some of the highlights uh we continue     
+9:17     
+deep collaboration with orthogonal     
+9:19     
+research and education lab Joe per's     
+9:21     
+longtime partner particularly through     
+9:24     
+the science society ethics technology     
+9:26     
+working group together we explored     
+9:28     
+questions of project management     
+9:30     
+leadership and coordination and research     
+9:32     
+and innovation spaces topics that are     
+9:35     
+rarely treated as first order concerns     
+9:37     
+but which often determine whether good     
+9:39     
+ideas survive contact with reality.     
+9:42     
+They also uh stayed closely connected to     
+9:45     
+plot twisters, a Joe Pro sister group     
+9:47     
+building on the work supported by Open     
+9:49     
+Ido and the designing for digital     
+9:52     
+thriving grant and Metagv's governable     
+9:55     
+spacemaker fellowship.     
+9:57     
+Plot twisters exemplifies the kind of     
+9:59     
+experimental practiceoriented inquiry we     
+10:02     
+believe is essential for understanding     
+10:04     
+agency and narrative digital spaces and     
+10:07     
+individual and community sensem is     
+10:10     
+tractable design challenges rather than     
+10:12     
+abstract problems.     
+10:14     
+Uh so the events that Jerpo participated     
+10:17     
+in um of course there's this advancing     
+10:21     
+humans with AI community based out of     
+10:23     
+MIT where there's an emphasis on human-     
+10:26     
+centered AI which aligns closely with     
+10:28     
+our own concerns     
+10:31     
+and there's also participation in the     
+10:34     
+distributed AI research institute     
+10:37     
+particularly around the possible futures     
+10:39     
+workshop series.     
+10:41     
+Uh there's also engagement with the     
+10:43     
+Cosmos Institute and participation in     
+10:46     
+the Oxford AI times philosophy seminar.     
+10:51     
+A reminder of how valuable serious     
+10:53     
+philosophical engagement remains in     
+10:55     
+technical domains.     
+10:58     
+In more applied and embodied spaces,     
+11:00     
+JoeRo members attended events hosted by     
+11:02     
+groups like Augmentation Lab and we     
+11:04     
+exhibited at the AUG Lab Summit at the     
+11:06     
+MIT Media Lab. In addition to supporting     
+11:10     
+the summit, our colleagues at Echolapto     
+11:13     
+convene numerous salons and events     
+11:15     
+across crucial frontiers, creating space     
+11:17     
+for reflective engagement with questions     
+11:20     
+of technology,     
+11:21     
+cognition, futures, and human     
+11:23     
+experience. Together, these environments     
+11:26     
+challenged us to think more carefully     
+11:27     
+about how narratives, interfaces, and     
+11:30     
+systems shape human capability.     
+11:33     
+Um, we also engage with communities     
+11:35     
+focused on values, responsibility, and     
+11:38     
+career pathways, including the school     
+11:40     
+for moral ambition, whose work on     
+11:43     
+alternative and impactful career     
+11:44     
+trajectories resonates strongly with     
+11:46     
+many in our network. We reconnected with     
+11:50     
+collaborators at Princeton Envision as a     
+11:52     
+Revi Envision conference series with     
+11:54     
+renewed emphasis on data ethics and     
+11:57     
+responsible AI.     
+12:00     
+In terms of what was advanced this year,     
+12:03     
+um, across research, pedagogy, and     
+12:05     
+community work, we were asking a     
+12:08     
+consistent question. What does it look     
+12:10     
+like to design learning, inquiry, and     
+12:12     
+leadership structures that are actually     
+12:14     
+responsive to the conditions people are     
+12:16     
+navigating? Now,     
+12:19     
+so throughout the year, much of our work     
+12:20     
+focused on education and learning     
+12:22     
+ecosystems.     
+12:24     
+We formalized what we have been     
+12:26     
+developing implicitly for years into a     
+12:28     
+framework we call Joe and the new     
+12:30     
+learning ecosystem.     
+12:33     
+This work articulates an approach to     
+12:35     
+learning that is contextual,     
+12:36     
+developmental and trajectory aware     
+12:39     
+designed for interdicciplinary spaces     
+12:41     
+where people are often navigating     
+12:43     
+multiple identities, skill sets and time     
+12:46     
+horizons all in the same context.     
+12:51     
+We shared this framework in the spring     
+12:53     
+at the UC San Diego Education Innovation     
+12:56     
+Expo,     
+12:58     
+using it to demonstrate how pedagogy,     
+13:00     
+technology, and mentorship can be     
+13:02     
+designed together rather than treated as     
+13:04     
+separate layers. That same philosophy     
+13:07     
+guided our participation in Google's     
+13:09     
+summer of code through orthogonal     
+13:11     
+research and education lab sponsored by     
+13:14     
+the INCF     
+13:16     
+where Joe pro supporters supports     
+13:19     
+scholars contributing to open source and     
+13:21     
+research projects at the intersection of     
+13:24     
+computation biology and ethics. These     
+13:27     
+efforts reinforced a core belief.     
+13:29     
+Meaningful learning happens when people     
+13:30     
+are embedded in real problems with real     
+13:33     
+responsibility and adequate scaffolding.     
+13:37     
+Then as the year progressed into the     
+13:39     
+fall, Joe exhibited at the human     
+13:42     
+augmentation summit hosted at MIT Media     
+13:44     
+Lab, contributing to conversations about     
+13:47     
+human potential augmentation and the     
+13:50     
+social consequences of emerging     
+13:52     
+technologies.     
+13:53     
+Members of our community also engage     
+13:55     
+with global research communities through     
+13:57     
+conferences like ACM conference on     
+13:59     
+fairness, accountability, transparency     
+14:03     
+and that's the fact uh section of the     
+14:05     
+ACM     
+14:07     
+uh under the data times direction banner     
+14:10     
+exploring questions of fairness     
+14:12     
+accountability and participary     
+14:14     
+approaches to AI. So running alongside     
+14:17     
+this public work was a deeper strand of     
+14:19     
+research and sensemaking. Over the     
+14:21     
+course of the year, we developed     
+14:23     
+something in the way, an ethnography of     
+14:25     
+21st century directionless     
+14:28     
+directionlessness,     
+14:30     
+a project in the mental health paradigms     
+14:32     
+and perspectives working group, which is     
+14:34     
+a working group within Jobro aimed at     
+14:37     
+documenting what it feels like to be a     
+14:38     
+drift in contemporary life     
+14:40     
+professionally, cognitively, and     
+14:42     
+morally. Drawing from ethnography and     
+14:45     
+phenomenology rather than optimization     
+14:47     
+frameworks, this work shaped how we     
+14:50     
+think about mentorship, leadership, and     
+14:52     
+learning. Not as linear pipelines, but     
+14:55     
+as processes that must account for     
+14:56     
+uncertainty, fragmentation, and uneven     
+14:59     
+development. Later in the year, many of     
+15:01     
+these threads came together. In     
+15:03     
+December, we launched Digenest, which is     
+15:06     
+stands for digital narratives and     
+15:08     
+emerging story technologies, a new     
+15:10     
+rating group and discussion space     
+15:13     
+exploring narrativity, agency, and     
+15:15     
+emerging technologies.     
+15:17     
+Digeness sits at the intersection of     
+15:19     
+digital humanities, philosophy,     
+15:21     
+psychology, and design, and reflects     
+15:24     
+Joe's conviction that questions of     
+15:26     
+ethics and governance are inseparable     
+15:29     
+from questions of story, identity, and     
+15:32     
+meaning making. In many ways, Digenist     
+15:36     
+represents a synthesis of this year's     
+15:38     
+work, a space where research, pedagogy,     
+15:40     
+and community converge.     
+15:43     
+uh running through it all was a quieter     
+15:45     
+but essential effort which was field     
+15:48     
+based on field building and mentorship     
+15:51     
+projects such as from here to there and     
+15:54     
+data times direction both of which are     
+15:57     
+spin-offs from my capstone course work     
+15:59     
+at UC San Diego are not products in the     
+16:02     
+conventional sense rather are attempts     
+16:04     
+to offer language structure and guidance     
+16:07     
+for people navigating complex innovation     
+16:09     
+landscapes without clear maps data times     
+16:13     
+action in particular had a wonderful     
+16:15     
+initial internship cohort and serves as     
+16:18     
+a growing community within the broader     
+16:19     
+Joe umbrella.     
+16:22     
+These efforts reflect a belief that     
+16:24     
+leadership today is less about authority     
+16:26     
+and more about helping people orient     
+16:28     
+themselves intellectually, ethically,     
+16:31     
+and strategically over time. This year's     
+16:34     
+activities are the 2025 activities in     
+16:37     
+JPro, created shared reference points,     
+16:41     
+new vocabularies, prototypes for     
+16:43     
+learning, inquiry, and collaboration     
+16:46     
+that can continue to evolve. As an     
+16:48     
+organization, we continue to practice     
+16:50     
+incubation for projects and then growing     
+16:53     
+our capacity to cultivate context and     
+16:56     
+capacity. And so in the coming year, um,     
+16:59     
+a lot of these things will continue and     
+17:01     
+and grow and thrive hopefully. So I     
+17:04     
+think that's a good overview of what's     
+17:06     
+going on in Joe. Thank you for Jesse for     
+17:09     
+preparing this and putting it on his     
+17:11     
+Substack. Um I think you know he     
+17:14     
+mentioned to me that there's sort of     
+17:17     
+this immense pressure to create a media     
+17:19     
+brand and sometimes you know when we     
+17:23     
+produce content or what we might call     
+17:25     
+content in academia you know they call     
+17:28     
+it papers or presentations but     
+17:30     
+essentially it is content there remains     
+17:33     
+this sort of pressure to have a unified     
+17:36     
+brand or a unified theme that is you     
+17:39     
+know easy to sort of past people as so     
+17:43     
+you know the idea is you know I know     
+17:45     
+that person that's a that's a a certain     
+17:47     
+type of person they do a certain type of     
+17:49     
+thing and it sort of subsumes a lot of     
+17:52     
+the other things that they do or a lot     
+17:55     
+of the connections they make with other     
+17:56     
+things uh so if I say someone is a data     
+17:59     
+analyst or someone does cognitive     
+18:03     
+science or they're a certain area of     
+18:05     
+cognitive science that kind of shortells     
+18:08     
+what they actually can do and short     
+18:10     
+sells their potential     
+18:12     
+I think that's interesting uh from the     
+18:15     
+standpoint of interdisiplinarity.     
+18:17     
+Uh we also talked about the potential to     
+18:19     
+set up uh different types of uh content     
+18:23     
+which involve interviews with people     
+18:26     
+such as myself     
+18:28     
+as well as s sort of short uh     
+18:31     
+reflections on some of these issues. And     
+18:34     
+so look forward to that um in the next     
+JoPro Year in Review 2025
