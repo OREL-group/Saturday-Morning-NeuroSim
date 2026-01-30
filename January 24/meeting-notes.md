@@ -2774,4 +2774,3 @@ as well as s sort of short uh
 reflections on some of these issues. And     
 18:34     
 so look forward to that um in the next     
-JoPro Year in Review 2025
