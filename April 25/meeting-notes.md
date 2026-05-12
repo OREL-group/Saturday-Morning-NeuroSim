@@ -15,7 +15,74 @@
 [Sakana AI Petri Dish NCA Demo](https://youtu.be/1a-Nd9N7zS0)
 
 ## NOTES
+Small group of people working on Open Textbooks.
 
+* Ryan Smith's step-by-step tutorial. Non-MATLAB alternative.
+
+* code examples --> Alexander Shaw.
+
+
+Variational methods, animal behavior, RL, robotic methods.
+
+
+Josh Bongard's robotics class. Center for Brains, Minds, and Machines (BMM -- MIT).
+
+* steganographic -- digital watermarking (how many authors wrote x?). 
+
+* "Marked Pedagogies" --> limits of LLMs and inherent biases.
+
+* AI in Education fellowship.
+
+* similar to the Princeton Panel (K-12, scalable).
+
+
+AI for teaching progressions (not certain outcomes). Weilding the proportion.
+
+* knowledge generation, other issues. 
+
+* types of class, management of demos, how people use tech.
+
+
+What happens when you have an LLM grade the work of another LLM?
+
+* what happens when you have an LLM grade the work of another LLM?
+
+* "The appearance of a solution".
+
+
+Heavily processed signal -- why is the mad lib is being assembled the way it is?
+
+* what is generative text? LLM fingerprinting -- self-supervised LMs (remove humans).
+
+* HAI group, Morgan is working with the group.
+
+* AI in education and cognitive development. How much does the model share by responding? 
+Passing information in plain sight --> or anonymous sources?
+
+* Allostatic Kinds --> Chiral Personalities (Avery's new work).
+
+
+HAI group, Morgan is working with the group.
+
+* LLM fingerprinting -- self-supervised LMs. Remove humans from the loop.
+
+
+Focus on Foundation Models --> MetArc --> structural MRI.
+
+* developmental trajectories, delays. accelenated aging. 
+
+* CogSci reading group. Building for Sentience (not a thing). A lot of examples just brought up and 
+left to wither. Was the whole book a ruse?
+
+
+Computational Memory Lab: Princeton --> foundation models. 
+
+* CogNeuro experiments --> ActInf tectbook group. Software development. Connect to tutorials.
+
+* how useful is educatyional code? Different styles of learning. 
+
+* continuing with agentive coding. No pre-existing examples. Talk about AI, reconize that 
+animals have sentience.
 
 ## TRANSCRIPT	      
 0:00     
