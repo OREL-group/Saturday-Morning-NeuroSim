@@ -15,7 +15,105 @@
 [Updates on Hackathons and Agentive Coding](https://youtu.be/P3VIhKg1fyg)
 
 ## NOTES
+Claude --> putting together scripts, hardware development.
 
+* gets you post humps whre you might have given up.
+
+* good for multi-tasking. Exploring the legal edge of something (jagged edge).
+
+
+Threshold for working out is different from 6 months ago.
+
+* mature to "what problems can be solved".
+
+
+Vibe coding nights: topics covered, what small spaces do people know? Code generation 
+vs. knowledge management.
+
+* knowledge management: cognitiveatlas (Russ Poldrack) --> neuro.kb, project form of pre-LLM that can 
+be improved; Krakauer/levin discussion. "Mindscapes" discussion --  is complexity science pre-paradigmatic.
+
+* theories help us plot knowledge. Four foundational pillars of complexity theory: entropy, evolution, 
+dynamics, and computation.
+
+
+NYCWiC social media page. UC launch-a-thon. Carla Rios @ NYCWiC. 
+
+* Molly Ann Kluck: tech and well-spoken advocate.
+
+* five principles of reflective agency principles.
+
+* JoPro YT channel --> similar to Cognition Futures (Avery is building with tools).
+
+* persona vectors --> control character triats in LLMs.
+
+
+Group from McGill and Lagos. LLM to do evolutionary search algorithms.
+
+1) Spark (AI-related medical imaging).
+
+2) analysis (democratization of MRI data (CAMERA group).
+
+* imaging genomics program. Where are nonlinearities in the loss landscape?
+
+
+Augustin Ibanez (exposome paper) -- AI in medical imaging.
+
+* topic: agentic coding -- remarkable progress.
+
+* "Claude can't save you when physics is the problem".
+
+* computational benefit -- Bayesian Analysis with uncertainty.
+
+
+NYCWiC --> largest event in conference history. Share a few things that are relevant. 
+
+* take user entries --> tags that build graphs.
+
+* brand new approach to social media -- incorporate and acknowledging errors.
+
+* narrative story development. Things that have come up in Diginest.
+
+
+Hackathon 00 rousing success -- 16 Universities.
+
+* glabal neurohack. Bluesky -- speech decoding "science" track (ex-Neuralink).
+
+* winners: 5 freshman team.
+
+
+Practicality, presentation --> in a month or two , will they still be engaged? 
+
+* LLM narrativity --> don't push user into answer.
+
+
+Problem-solving Matter: ingressing minds.
+
+Ball rolling down a hil --> mindless application of euqations of motion.
+
+* complex system -- agentic drive? Strong emergence.
+
+* Teleophobia -- err on the side of ascribing too much angency. Why is this described 
+as a "phobia"? Is it the Templeton ca$h? Kraukauer says that all we need is effective theories.
+
+* Avery -- platonic space, mathematics approach. Broad latent spaces, mind-brain relationship.
+
+* ingressing minds --> Levin's seed paper.
+
+
+Navigation and selection of choices. 
+
+* Carla Rios: decoding human health --> AI and science of persistence (sustains us through uncertainty). 
+Also, navigation of male spaces.
+
+* Arnav Satish: ethical policy analyzer.
+
+Posters: some that were very polished. AI-driven development. Nonlinear paths in hiring (traditional 
+ways of getting jobs are not working).
+
+* beyond "Demo or Die".
+
+* Allen Institute new data release (56Tb).
 
 ## TRANSCRIPT	     
 0:00     
