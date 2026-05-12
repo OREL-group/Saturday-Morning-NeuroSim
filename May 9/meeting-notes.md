@@ -15,7 +15,77 @@
 [Updates on JoPro and Society, Ethics, and Tech](https://youtu.be/Df1jw-h-WoU)
 
 ## NOTES
+Produce 10-year anniversary video for GSoC.
 
+* Director's summary of GSoC, reunion where we cover "where are they now"?
+
+Benchmarks for Human Flourishing.
+
+Busy day/week for Jesse.
+
+* JoPro website, full history of GSoC. 
+
+
+Sam Carrollo -- doing some interesting things.
+
+* reunion meeting? Data + Direction, interviews, DISI waitlist.
+
+* MIT AHA group. Computing for social ethics.
+
+
+Who's doing what and what's their angle?
+
+* hard to measure things.
+
+* KTH --> Ankit Grover, Catching up --> Vidhi.
+
+
+Anthropic --> Natural Language Autoencoders.
+
+
+Krzysztof Gajos --> AI scaffolds growth and development of learning.
+
+* exploring success criteria.
+
+"Tale of what the tape omits". 
+
+* Yampolinsky's personal AI universe.
+
+* what ethics people want to deal with vs. technicL medium (tools tech).
+
+
+What are big tech groups doing vs. Stanford's HAI and MIT groups.
+
+* studies are woefully behind the technology (ethics studies on GPT3).
+
+
+EGRT --> do youhave enough variety?
+
+Where do you put a whole field?
+
+* hear of a tape = observer.
+
+* digital media --> divide between "matter" and "hardware".
+
+
+Programming with matter. Krakauer mindscapes podcasts.
+
+* throwing away a field for Turing completeness.
+
+* revisit the "Your Mind is a _____________" paper.
+
+* observer (tape head) --> reading, thinking.
+
+
+Can you augment observer (vantage points)?
+
+* observers of a computational structure.
+
+* observe machine code as a biological agent, augmented agent.
+
+"AI is anything your computer can't do" --> Prosthetics, substrate, discreteness.
+
+* tape heads in parallel is a combined (collective) intelligence. Shadows of the cube (tesserect).
 
 ## TRANSCRIPT	      
 0:00     
