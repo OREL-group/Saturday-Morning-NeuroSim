@@ -4,7 +4,7 @@
 
 ## Mastodon thread
 
-[link](---)
+[link](https://neuromatch.social/@OREL/116756297291812425)
 
 ## Feature Videos
 
