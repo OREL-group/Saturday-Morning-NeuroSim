@@ -15,7 +15,52 @@
 [Fallacy of the CogSci Hexagon](https://youtu.be/YQO2OvNUY48)
 
 ## NOTES
+High accuracy under subject-disjoint cross-validation.
 
+Foundation Model (FM) scope, frozen representation. Representations vs. subject-specific results. FMs build from 100s of subjects.
+
+* novel classification pipeline -- need a set of datasets -- open-source, classical ML pipelines.
+
+* PyTorch geometry-friendly.
+
+
+Not a "scaled" effort in tech nor the medical imaging sense. 300K datasets for a foundation model. Better application of a general linear model.
+
+* fine-tune to individuals, but not to over-focus on individuals (confounds within a dataset).
+
+* Alljoined --> Enigma Foundation Model --> use case for neuroimaging.
+
+Development a behavior of Intelligent Agents:
+
+1) add juvenile stage (weak priors) vs. adult (strong priors).
+
+2) "Beyond the Adult Mind" paper --> predictive processing (incremental updates). Babies need to construct from scratch. "Active and Epistemic Value".
+
+
+Benchmarks and Foundation Models scope. Identity trap --> physically-grounded shortcut learning.
+
+* Ethan Mollick -- cutting edge commentary.
+
+* Randall Beer -- Dynamical Cognitive Science paper. Language of dynamical computation, language of CogSci --> can we reconcile.
+
+* Boden's cognitive science demarcations --> 2007 pre-ML/DL.
+
+* find old papers on developmental freedom and capacity.
+
+* unified principles of agents --> world models, developmental freedom, developmental capacity.
+
+
+Sybnthesis videos. CogSci beyond LLMs --> do some more interdisciplinary contextualizing work.
+
+* multi-instant, multi-agent systems.
+
+* Stochastic Parrots. Preprint offering a critique of impacts of models. Revisit the original paper (challenge to the community).
+
+* DAIR --> what insights of n years hance are offered? Martiny critique of embodied cognition.
+
+* Yann LeCun first-person approach.
+
+* FDA timeline --> rate of change in world vs. what our institutions can support.
 
 ## TRANSCRIPT
 0:06     
