@@ -15,7 +15,66 @@
 [Horse kicks and the origin of Poisson process](https://youtu.be/EQa5H6K1bT8)
 
 ## NOTES
+Kavya — next week, focus on Developmental AI.
 
+DigiNest — lots of interesting opportunities for collaboration.
+
+Epstein’s books on NetLogo — language is very 1970s. 
+
+model insurgencies, segregation — how quickly do collaborative social behaviors turn?
+
+bringing time-series to a lattice model. Poisson process: more sophisticated.
+
+Center some points in “Structure of Goals and Experience”.
+
+cohort meetings —> forming clusters.
+
+policy (major Ai labs), 2) agent characteristics/internal — CogSci (Moral AI), 3) multi-agent communities (user encounter).
+
+Intra-Inter-Agent domains. Frameworks —> anchor. Some general pathway of GSoC —> Data x Direction. 
+
+Violet: CogSci background. 
+
+DigiNest —> Avery, Jes, Molly. Less structured than a seminar series.
+
+where do goals come from? Avery’s viewpoint. Ontology —> RL as a descriptive layout, reward structure.
+
+what if it’s co-developed, hierarchical?
+
+Telic States ~ Affordances. Environmental opportunity.
+
+Yohan John — do not see differences, see with differences.
+
+Objective/Goal — situating goal/end-state. Continually-informed.
+
+Internal/Intrinsic —> volitional allotment (enactive).
+
+juries that falsely convict — Poisson process.
+
+origin of Poisson process. Common currency of navigation. Law of small numbers.
+
+
+Autotelic agents — can set their own goals.
+
+selection from alternatives. Goal —> perception of an alternative. Goal generation, affordances constrain.
+
+Prisoner’s Dilemma (PD) — are all Prisoner’s the same? Power dynamics, nonuniformity is conceptionof the reward.
+
+in concept of the reward.
+
+
+Horse Kicks —> Geiger counter,
+
+Stanford person —> Agent-based model as Ising model.
+
+multiple chemical processes, more Sociological.
+
+Levin paper —> using Ising models. Lean proofs, scaffolds. 
+
+* “The Unreasonable Effectiveness of Statistical Mechanics”. Wht would Jaynes do? Maxent. dev-Neuro-AI. Growing olfactory neurons for bomb detection.
+
+
+Poisson process: is attributed to Poisson. First used to quantify and predict the number of horse kick fatalities in the Prussian military.
 
 ## TRANSCRIPT
 0:3030 secondsHello. Hi. How are you? Fine. I'm great.     
