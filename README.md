@@ -183,6 +183,8 @@ April: [4](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/Apr
 
 May: 2, [9](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/May%209/meeting-notes.md), [16](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/May%2016/meeting-notes.md), [23](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/May%2023/meeting-notes.md), [30](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/May%2030/meeting-notes.md)
 
+[AI Summary (January-May)]()
+
 June: [6](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/June%206), [13](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/June%2013/meeting-notes.md), [20](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/June%2020/meeting-notes.md), [27](https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/June%2027/meeting-notes.md)
 
 July: 4, [11](---), [18](---), [25](---)
