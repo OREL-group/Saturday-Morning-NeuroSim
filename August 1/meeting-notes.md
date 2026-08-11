@@ -1,15 +1,17 @@
 ## Meeting Recording
 
-[YouTube link](https://www.youtube.com/watch?v=8qH_Pa-w9rw)
+[YouTube link](https://youtu.be/lzFA_avnk64)
 
-## Twitter thread
+## Mastodon thread
 
-[link](https://twitter.com/Orthogonal_Lab/status/1289611772333297665)
+[link](---)
 
-## Presentation
+## Feature Videos
 
-NONE
+[LLMs as Cybernetic Systems (Ashby and Beer)](https://youtu.be/dY_BSn8-3ak)
 
-## Supplemental Notes
+[Discussion on Characterizing LLM Behaviors](https://youtu.be/JeSnmy3kbxg)
 
-NONE
+[Barshan Mondal's Embryo Tracking Interface](https://youtu.be/0CMiMRcw3LU)
+
+## NOTES
