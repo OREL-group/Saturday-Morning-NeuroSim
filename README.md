@@ -21,7 +21,7 @@ June: [6](https://youtu.be/ShHAessM_O4), [13](https://youtu.be/BlyI_Sm1MW0), [20
 
 July: [4](https://youtu.be/phYIybRkNRU), [11](https://youtu.be/pPnyYfpZjog), [19](https://youtu.be/37Isn3ljCWU), [25](https://youtu.be/hv5b28yoFnc)   
 
-August: [1](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/August%201), [8](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/August%208), [15](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/August%2015), [22](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/August%2022), [29](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/August%2029)   
+August: [1](https://youtu.be/8qH_Pa-w9rw), [8](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/August%208), [15](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/August%2015), [22](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/August%2022), [29](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/August%2029)   
 
 September: [5](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/September%205), [12](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/September%2012), [19](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/September%2019), [26](https://github.com/OREL-group/Saturday-Morning-NeuroSim/tree/main/September%2026)  
 
