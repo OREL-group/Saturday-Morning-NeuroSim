@@ -4,7 +4,7 @@
 
 ## Bluesky thread
 
-[link](---)
+[link](https://bsky.app/profile/orthogonal-lab.bsky.social/post/3mxaybnpiks2h)
 
 ## Feature Videos
 
